@@ -26,6 +26,15 @@
         "revision" : "fd48276f88f3d55dbdcdc9e8cbf32541811d5865",
         "version" : "12.1.0"
       }
+    },
+    {
+      "identity" : "tescorefindout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/agung3535/TesCoreFindOut.git",
+      "state" : {
+        "revision" : "f4bc364c5f7a0c22caa7c1b5cdfdf22c082d8140",
+        "version" : "1.0.0"
+      }
     }
   ],
   "version" : 2
